@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jokes_generator/static/css/main.2e0c24fb.css",
+    "main.js": "/jokes_generator/static/js/main.c933f37b.js",
+    "static/media/science_card.png": "/jokes_generator/static/media/science_card.f5de359da48d3b1944b8.png",
+    "static/media/sports_card.jpg": "/jokes_generator/static/media/sports_card.39e3b9bc26e792d0785e.jpg",
+    "static/media/food_card.jpg": "/jokes_generator/static/media/food_card.b0b3e9b28c32653d5a6a.jpg",
+    "static/media/wrapper_cover.jpg": "/jokes_generator/static/media/wrapper_cover.ef055560bd767d7a97b1.jpg",
+    "static/media/sport_page.png": "/jokes_generator/static/media/sport_page.0ae99252534a71aa62a8.png",
+    "static/media/food_page.png": "/jokes_generator/static/media/food_page.edb9985871b836a2c2e9.png",
+    "static/media/main_logo_3.png": "/jokes_generator/static/media/main_logo_3.c297ff50a82f052a2eee.png",
+    "static/media/loading.gif": "/jokes_generator/static/media/loading.c0c2f01083736d90f19a.gif",
+    "static/media/science_page.png": "/jokes_generator/static/media/science_page.ccd4fea80089140a5b6a.png",
+    "index.html": "/jokes_generator/index.html",
+    "main.2e0c24fb.css.map": "/jokes_generator/static/css/main.2e0c24fb.css.map",
+    "main.c933f37b.js.map": "/jokes_generator/static/js/main.c933f37b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e0c24fb.css",
+    "static/js/main.c933f37b.js"
+  ]
+}
