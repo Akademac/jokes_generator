@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jokes_generator/static/css/main.2e0c24fb.css",
-    "main.js": "/jokes_generator/static/js/main.71e8a4f9.js",
+    "main.js": "/jokes_generator/static/js/main.dfd22898.js",
     "static/media/science_card.png": "/jokes_generator/static/media/science_card.f5de359da48d3b1944b8.png",
     "static/media/sports_card.jpg": "/jokes_generator/static/media/sports_card.39e3b9bc26e792d0785e.jpg",
     "static/media/food_card.jpg": "/jokes_generator/static/media/food_card.b0b3e9b28c32653d5a6a.jpg",
@@ -13,10 +13,10 @@
     "static/media/science_page.png": "/jokes_generator/static/media/science_page.ccd4fea80089140a5b6a.png",
     "index.html": "/jokes_generator/index.html",
     "main.2e0c24fb.css.map": "/jokes_generator/static/css/main.2e0c24fb.css.map",
-    "main.71e8a4f9.js.map": "/jokes_generator/static/js/main.71e8a4f9.js.map"
+    "main.dfd22898.js.map": "/jokes_generator/static/js/main.dfd22898.js.map"
   },
   "entrypoints": [
     "static/css/main.2e0c24fb.css",
-    "static/js/main.71e8a4f9.js"
+    "static/js/main.dfd22898.js"
   ]
 }
